@@ -1,3 +1,4 @@
+<p align="center"><img src="./logo.png" alt="Lightning LTG Logo" width="160" /></p>
 # Lightning (LTG)
 
 **Lightning (LTG)** is a Bitcoin Layer2 ecosystem built on BNB Smart Chain that incentivizes users — through DeFi-style liquidity mining rewards — to participate in Bitcoin mainnet asset protocols: running Lightning Network nodes, providing channel liquidity, and forwarding asset transactions.
